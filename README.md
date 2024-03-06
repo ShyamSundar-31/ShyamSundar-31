@@ -4,16 +4,16 @@
 
 Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <b>I'm ShyamSundar .</b>
 ===============================================================================================================================
-<img align="left" height ="10" width="30" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" height ="300" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-Front-end Developer | UI/UX designer | Flutter Developer | Networking | Security | Linux | Machine Learning | MySQL | AWS
+Aspiring FullStack Developer
 <hr/>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shyamsundaroffical31@gmail.com](mailto:shyamsundaroffical31@gmail.com)
 * 🧠  I'm learning DevOps , Full-Stack
 * 🤝  I'm open to collaborating on Full-stack Development
-  
+
 
 ### Skills
 
